@@ -1,4 +1,5 @@
-An Open-Source Finance Tracker
+# An Open-Source Finance Tracker
+
 Tired of complicated spreadsheets and subscription fees? This project is a simple, yet powerful, personal finance tracker built to help you take control of your money with a clean, intuitive interface. Designed for simplicity and insight, it's the perfect tool to visualize your spending and work towards your financial goals.
 
 ✨ Motivation
